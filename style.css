@@ -1,0 +1,68 @@
+#nav li {
+    width: 100px
+}
+
+* nav {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding: 20px 30px;
+
+
+
+
+}
+
+#login {
+
+    -ms-flex-align: end;
+
+
+}
+
+#navbarNav {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+#first {
+    width: 20%
+}
+
+#navBar {
+    display: flex;
+    align-items: center;
+    height: 3vh;
+
+
+}
+
+body {
+    box-sizing: border-box;
+
+}
+
+.nav-item {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#carouselExampleCaptions {
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 5rem;
+    margin-top: 2px;
+
+}
+
+.carousel-inner {
+    max-height: 90vh;
+    border-radius: 10px;
+}
+
+.carousel-item {
+    image-rendering: inherit;
+}
